@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syair-tungga.github.io/tungga-1/sitemap.xml
